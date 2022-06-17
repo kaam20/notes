@@ -1,0 +1,1 @@
+http://blog.hubwiz.com/2020/04/04/python-blockchain-projects/
