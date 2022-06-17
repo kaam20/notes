@@ -1,1 +1,1 @@
-# some notes about myself
+# Some notes
