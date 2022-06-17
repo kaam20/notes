@@ -1,0 +1,1 @@
+http://blog.hubwiz.com/2021/05/23/5-industry4-blockchain-startups/
