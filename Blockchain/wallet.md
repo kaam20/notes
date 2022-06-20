@@ -1,4 +1,5 @@
 ## 功能大纲
+https://www.bilibili.com/video/BV1eg411o7P6
 * 系统启动
 * 用户注册
 * 导入/生成助记词
