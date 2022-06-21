@@ -8,4 +8,4 @@
 ```python
 print(a)
 ```
-![截图](C:\Users\wangkai\Desktop\Snipaste_2022-06-21_08-34-18.jpg)
+![](https://i.bmp.ovh/imgs/2022/06/21/da7f6412e73f5aea.png)
