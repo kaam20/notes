@@ -10,8 +10,7 @@ https://www.cnblogs.com/tgzhu/archive/2016/08/08/5748499.html
 * 源码路径
 
 * apache源码
-
-http://hadoop.apache.org/releases.html
+* http://hadoop.apache.org/releases.html
 
 * CDH源码
 http://archive-primary.cloudera.com/cdh5/cdh/5/
