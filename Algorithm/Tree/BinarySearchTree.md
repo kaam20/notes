@@ -7,10 +7,15 @@ public class Solution {
     TreeNode root = null;
 
     public TreeNode Convert(TreeNode pRootOfTree) {
+
         if(pRootOfTree == null) return null;//遍历到叶子结点，进行
+
         Convert(pRootOfTree.left);
+
         if(root == null) root = pRootOfTree;//初始化链表的头结点
+
         //当前节点的前驱节点不为0，则进行双向链表的构建
+
         if(pre != null)
         {
             pRootOfTree.left = pre;
